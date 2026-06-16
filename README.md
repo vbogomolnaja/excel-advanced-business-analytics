@@ -37,3 +37,5 @@ Used Solver to optimise business decisions subject to constraints and objectives
 - Performing sensitivity analysis
 - Optimising business scenarios
 - Presenting analytical findings in a structured format
+
+## Screenshots illustrating examples of Goal Seek, Data Tables, and Solver analyses
