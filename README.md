@@ -10,6 +10,7 @@ The exercises demonstrate practical applications of Excel analytical tools:
 - Goal Seek
 - Data Tables
 - Solver
+- Excel functions
 
 ## Skills Demonstrated
 - Financial and business modelling
